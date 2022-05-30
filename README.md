@@ -1,9 +1,9 @@
 
-#  Voxelab Aquila G32 Klipper config
+#  Voxelab Aquila SKR 3.0 Klipper config
 
 Current printer config:
 - Firmware: Klipper 0.10.0
-- MCU: G32 [STM32]
+- MCU: SKR 3.0 [STM32H743]
 - Display: TFT50 running KlipperScreen
 #
 - Hotend Carriage: WhamBam Mutant v2 Hotswap Toolkit
