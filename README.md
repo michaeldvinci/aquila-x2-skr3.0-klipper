@@ -8,7 +8,7 @@ Current printer config:
 #
 - Hotend Carriage: WhamBam Mutant v2 Hotswap Toolkit
 
-![hotend build 1](img/hotend1_nondd.png)
+![hotend build 1](img/hotend_dd_01.png)
 - Hotend 1 setup:
     - HeroMe Gen6 Suite:
         - Voxelab BMS gantry plate adapter
@@ -16,6 +16,7 @@ Current printer config:
         - generic OEM BMS body
         - abs wing & mount - compact versions
     - Hotend: Phaetus Dragonfly BMS
+    - BMG Extruder DD w/ pancake stepper
 #
 - X Axis: Single MGN12 Linear Rail
 - Y Axis: Double MGN12 Linear Rails
@@ -26,4 +27,4 @@ Current printer config:
 #
 
 KlipperScreen with extra temperature sensors:
-![klipperscreen extra temp sensors](img/klipperscreen.png)
+![klipperscreen extra temp sensors](img/klipperscreen_skr3.jpg)
