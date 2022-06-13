@@ -8,7 +8,7 @@ Current printer config:
 #
 - Hotend Carriage: WhamBam Mutant v2 Hotswap Toolkit
 
-![hotend build 1](img/hotend_dd_01.png)
+![hotend build 1](img/hotend_dd_01.jpg)
 - Hotend 1 setup:
     - HeroMe Gen6 Suite:
         - Voxelab BMS gantry plate adapter
